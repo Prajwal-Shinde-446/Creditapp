@@ -1,0 +1,3902 @@
+[
+  {
+    "model": "credit_app.customer",
+    "pk": 1,
+    "fields": {
+      "customer_id": 1,
+      "first_name": "Aaron",
+      "last_name": "Garcia",
+      "phone_number": 9629317944,
+      "monthly_salary": 50000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 2,
+    "fields": {
+      "customer_id": 2,
+      "first_name": "Abbey",
+      "last_name": "Gonzalez",
+      "phone_number": 9278790909,
+      "monthly_salary": 33000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 3,
+    "fields": {
+      "customer_id": 3,
+      "first_name": "Abbie",
+      "last_name": "Rodrigues",
+      "phone_number": 9775988997,
+      "monthly_salary": 193000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 4,
+    "fields": {
+      "customer_id": 4,
+      "first_name": "Abby",
+      "last_name": "Fernandez",
+      "phone_number": 9612343117,
+      "monthly_salary": 117000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 5,
+    "fields": {
+      "customer_id": 5,
+      "first_name": "Abdul",
+      "last_name": "Lopez",
+      "phone_number": 9175345317,
+      "monthly_salary": 219000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 6,
+    "fields": {
+      "customer_id": 6,
+      "first_name": "Abe",
+      "last_name": "Martinez",
+      "phone_number": 9763703492,
+      "monthly_salary": 129000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 7,
+    "fields": {
+      "customer_id": 7,
+      "first_name": "Abel",
+      "last_name": "Sanchez",
+      "phone_number": 9878469188,
+      "monthly_salary": 73000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 8,
+    "fields": {
+      "customer_id": 8,
+      "first_name": "Abigail",
+      "last_name": "Perez",
+      "phone_number": 9312500421,
+      "monthly_salary": 268000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 9,
+    "fields": {
+      "customer_id": 9,
+      "first_name": "Abraham",
+      "last_name": "Gomez",
+      "phone_number": 9419749629,
+      "monthly_salary": 163000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 10,
+    "fields": {
+      "customer_id": 10,
+      "first_name": "Abram",
+      "last_name": "Martin",
+      "phone_number": 9748307760,
+      "monthly_salary": 89000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 11,
+    "fields": {
+      "customer_id": 11,
+      "first_name": "Ada",
+      "last_name": "Jimenez",
+      "phone_number": 9114084983,
+      "monthly_salary": 85000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 12,
+    "fields": {
+      "customer_id": 12,
+      "first_name": "Adah",
+      "last_name": "Ruiz",
+      "phone_number": 9377510369,
+      "monthly_salary": 289000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 13,
+    "fields": {
+      "customer_id": 13,
+      "first_name": "Adalberto",
+      "last_name": "Hernandez",
+      "phone_number": 9275637027,
+      "monthly_salary": 229000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 14,
+    "fields": {
+      "customer_id": 14,
+      "first_name": "Adaline",
+      "last_name": "Diaz",
+      "phone_number": 9519253076,
+      "monthly_salary": 253000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 15,
+    "fields": {
+      "customer_id": 15,
+      "first_name": "Adam",
+      "last_name": "Moreno",
+      "phone_number": 9998047318,
+      "monthly_salary": 56000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 16,
+    "fields": {
+      "customer_id": 16,
+      "first_name": "Adan",
+      "last_name": "Alvarez",
+      "phone_number": 9149386281,
+      "monthly_salary": 230000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 17,
+    "fields": {
+      "customer_id": 17,
+      "first_name": "Addie",
+      "last_name": "Mu\u00f1oz",
+      "phone_number": 9362421503,
+      "monthly_salary": 168000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 18,
+    "fields": {
+      "customer_id": 18,
+      "first_name": "Adela",
+      "last_name": "Romero",
+      "phone_number": 9129350558,
+      "monthly_salary": 204000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 19,
+    "fields": {
+      "customer_id": 19,
+      "first_name": "Adelaida",
+      "last_name": "Alonso",
+      "phone_number": 9556780762,
+      "monthly_salary": 45000,
+      "approved_limit": 900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 20,
+    "fields": {
+      "customer_id": 20,
+      "first_name": "Adelaide",
+      "last_name": "Gutierrez",
+      "phone_number": 9981571392,
+      "monthly_salary": 269000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 21,
+    "fields": {
+      "customer_id": 21,
+      "first_name": "Adele",
+      "last_name": "Navarro",
+      "phone_number": 9128707865,
+      "monthly_salary": 109000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 22,
+    "fields": {
+      "customer_id": 22,
+      "first_name": "Adelia",
+      "last_name": "Torres",
+      "phone_number": 9755130143,
+      "monthly_salary": 150000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 23,
+    "fields": {
+      "customer_id": 23,
+      "first_name": "Adelina",
+      "last_name": "Dominguez",
+      "phone_number": 9157807459,
+      "monthly_salary": 184000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 24,
+    "fields": {
+      "customer_id": 24,
+      "first_name": "Adeline",
+      "last_name": "Vazquez",
+      "phone_number": 9707391933,
+      "monthly_salary": 142000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 25,
+    "fields": {
+      "customer_id": 25,
+      "first_name": "Adell",
+      "last_name": "Ramos",
+      "phone_number": 9833643293,
+      "monthly_salary": 96000,
+      "approved_limit": 4900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 26,
+    "fields": {
+      "customer_id": 26,
+      "first_name": "Adella",
+      "last_name": "Gil",
+      "phone_number": 9860014213,
+      "monthly_salary": 43000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 27,
+    "fields": {
+      "customer_id": 27,
+      "first_name": "Adelle",
+      "last_name": "Ramirez",
+      "phone_number": 9613567377,
+      "monthly_salary": 202000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 28,
+    "fields": {
+      "customer_id": 28,
+      "first_name": "Adena",
+      "last_name": "Serrano",
+      "phone_number": 9850668363,
+      "monthly_salary": 108000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 29,
+    "fields": {
+      "customer_id": 29,
+      "first_name": "Adina",
+      "last_name": "Blanco",
+      "phone_number": 9376270084,
+      "monthly_salary": 278000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 30,
+    "fields": {
+      "customer_id": 30,
+      "first_name": "Adolfo",
+      "last_name": "Molina",
+      "phone_number": 9191813781,
+      "monthly_salary": 287000,
+      "approved_limit": 4600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 31,
+    "fields": {
+      "customer_id": 31,
+      "first_name": "Adolph",
+      "last_name": "Suarez",
+      "phone_number": 9365435418,
+      "monthly_salary": 86000,
+      "approved_limit": 3000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 32,
+    "fields": {
+      "customer_id": 32,
+      "first_name": "Adria",
+      "last_name": "Morales",
+      "phone_number": 9261139969,
+      "monthly_salary": 169000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 33,
+    "fields": {
+      "customer_id": 33,
+      "first_name": "Adrian",
+      "last_name": "Ortega",
+      "phone_number": 9957610104,
+      "monthly_salary": 138000,
+      "approved_limit": 4000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 34,
+    "fields": {
+      "customer_id": 34,
+      "first_name": "Adriana",
+      "last_name": "Delgado",
+      "phone_number": 9528688972,
+      "monthly_salary": 112000,
+      "approved_limit": 3700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 35,
+    "fields": {
+      "customer_id": 35,
+      "first_name": "Adriane",
+      "last_name": "Castro",
+      "phone_number": 9701341235,
+      "monthly_salary": 180000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 36,
+    "fields": {
+      "customer_id": 36,
+      "first_name": "Adrianna",
+      "last_name": "Ortiz",
+      "phone_number": 9150167494,
+      "monthly_salary": 111000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 37,
+    "fields": {
+      "customer_id": 37,
+      "first_name": "Adrianne",
+      "last_name": "Rubio",
+      "phone_number": 9563808129,
+      "monthly_salary": 282000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 38,
+    "fields": {
+      "customer_id": 38,
+      "first_name": "Adrien",
+      "last_name": "Marin",
+      "phone_number": 9488986811,
+      "monthly_salary": 229000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 39,
+    "fields": {
+      "customer_id": 39,
+      "first_name": "Adriene",
+      "last_name": "Sanz",
+      "phone_number": 9669953880,
+      "monthly_salary": 33000,
+      "approved_limit": 3200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 40,
+    "fields": {
+      "customer_id": 40,
+      "first_name": "Adrienne",
+      "last_name": "Nu\u00f1ez",
+      "phone_number": 9630748682,
+      "monthly_salary": 169000,
+      "approved_limit": 4600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 41,
+    "fields": {
+      "customer_id": 41,
+      "first_name": "Afton",
+      "last_name": "Iglesias",
+      "phone_number": 9883645168,
+      "monthly_salary": 268000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 42,
+    "fields": {
+      "customer_id": 42,
+      "first_name": "Agatha",
+      "last_name": "Medina",
+      "phone_number": 9832111103,
+      "monthly_salary": 229000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 43,
+    "fields": {
+      "customer_id": 43,
+      "first_name": "Agnes",
+      "last_name": "Garrido",
+      "phone_number": 9545534969,
+      "monthly_salary": 172000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 44,
+    "fields": {
+      "customer_id": 44,
+      "first_name": "Agnus",
+      "last_name": "Santos",
+      "phone_number": 9413223979,
+      "monthly_salary": 101000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 45,
+    "fields": {
+      "customer_id": 45,
+      "first_name": "Agripina",
+      "last_name": "Castillo",
+      "phone_number": 9409905029,
+      "monthly_salary": 70000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 46,
+    "fields": {
+      "customer_id": 46,
+      "first_name": "Agueda",
+      "last_name": "Cortes",
+      "phone_number": 9831635836,
+      "monthly_salary": 168000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 47,
+    "fields": {
+      "customer_id": 47,
+      "first_name": "Agustin",
+      "last_name": "Lozano",
+      "phone_number": 9518442246,
+      "monthly_salary": 202000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 48,
+    "fields": {
+      "customer_id": 48,
+      "first_name": "Agustina",
+      "last_name": "Guerrero",
+      "phone_number": 9891249533,
+      "monthly_salary": 192000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 49,
+    "fields": {
+      "customer_id": 49,
+      "first_name": "Ahmad",
+      "last_name": "Cano",
+      "phone_number": 9625940161,
+      "monthly_salary": 57000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 50,
+    "fields": {
+      "customer_id": 50,
+      "first_name": "Ahmed",
+      "last_name": "Prieto",
+      "phone_number": 9917217682,
+      "monthly_salary": 122000,
+      "approved_limit": 5000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 51,
+    "fields": {
+      "customer_id": 51,
+      "first_name": "Ai",
+      "last_name": "Mendez",
+      "phone_number": 9110300525,
+      "monthly_salary": 146000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 52,
+    "fields": {
+      "customer_id": 52,
+      "first_name": "Aida",
+      "last_name": "Calvo",
+      "phone_number": 9864625224,
+      "monthly_salary": 294000,
+      "approved_limit": 3700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 53,
+    "fields": {
+      "customer_id": 53,
+      "first_name": "Aide",
+      "last_name": "Cruz",
+      "phone_number": 9779254592,
+      "monthly_salary": 247000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 54,
+    "fields": {
+      "customer_id": 54,
+      "first_name": "Aiko",
+      "last_name": "Gallego",
+      "phone_number": 9575734616,
+      "monthly_salary": 242000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 55,
+    "fields": {
+      "customer_id": 55,
+      "first_name": "Aileen",
+      "last_name": "Vidal",
+      "phone_number": 9181511694,
+      "monthly_salary": 243000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 56,
+    "fields": {
+      "customer_id": 56,
+      "first_name": "Ailene",
+      "last_name": "Leon",
+      "phone_number": 9737140572,
+      "monthly_salary": 268000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 57,
+    "fields": {
+      "customer_id": 57,
+      "first_name": "Aimee",
+      "last_name": "Herrera",
+      "phone_number": 9665309079,
+      "monthly_salary": 91000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 58,
+    "fields": {
+      "customer_id": 58,
+      "first_name": "Aisha",
+      "last_name": "Marquez",
+      "phone_number": 9614670209,
+      "monthly_salary": 173000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 59,
+    "fields": {
+      "customer_id": 59,
+      "first_name": "Aja",
+      "last_name": "Pe\u00f1a",
+      "phone_number": 9408267310,
+      "monthly_salary": 147000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 60,
+    "fields": {
+      "customer_id": 60,
+      "first_name": "Akiko",
+      "last_name": "Cabrera",
+      "phone_number": 9686201082,
+      "monthly_salary": 73000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 61,
+    "fields": {
+      "customer_id": 61,
+      "first_name": "Akilah",
+      "last_name": "Flores",
+      "phone_number": 9243583593,
+      "monthly_salary": 166000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 62,
+    "fields": {
+      "customer_id": 62,
+      "first_name": "Al",
+      "last_name": "Campos",
+      "phone_number": 9149217543,
+      "monthly_salary": 137000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 63,
+    "fields": {
+      "customer_id": 63,
+      "first_name": "Alaina",
+      "last_name": "Vega",
+      "phone_number": 9992348339,
+      "monthly_salary": 103000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 64,
+    "fields": {
+      "customer_id": 64,
+      "first_name": "Alaine",
+      "last_name": "Diez",
+      "phone_number": 9758344890,
+      "monthly_salary": 251000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 65,
+    "fields": {
+      "customer_id": 65,
+      "first_name": "Alan",
+      "last_name": "Fuentes",
+      "phone_number": 9595569782,
+      "monthly_salary": 115000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 66,
+    "fields": {
+      "customer_id": 66,
+      "first_name": "Alana",
+      "last_name": "Carrasco",
+      "phone_number": 9427347438,
+      "monthly_salary": 115000,
+      "approved_limit": 900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 67,
+    "fields": {
+      "customer_id": 67,
+      "first_name": "Alane",
+      "last_name": "Caballero",
+      "phone_number": 9361616072,
+      "monthly_salary": 125000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 68,
+    "fields": {
+      "customer_id": 68,
+      "first_name": "Alanna",
+      "last_name": "Nieto",
+      "phone_number": 9524176204,
+      "monthly_salary": 125000,
+      "approved_limit": 3500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 69,
+    "fields": {
+      "customer_id": 69,
+      "first_name": "Alayna",
+      "last_name": "Reyes",
+      "phone_number": 9268654052,
+      "monthly_salary": 272000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 70,
+    "fields": {
+      "customer_id": 70,
+      "first_name": "Alba",
+      "last_name": "Aguilar",
+      "phone_number": 9205423253,
+      "monthly_salary": 182000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 71,
+    "fields": {
+      "customer_id": 71,
+      "first_name": "Albert",
+      "last_name": "Pascual",
+      "phone_number": 9562313349,
+      "monthly_salary": 200000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 72,
+    "fields": {
+      "customer_id": 72,
+      "first_name": "Alberta",
+      "last_name": "Herrero",
+      "phone_number": 9491724627,
+      "monthly_salary": 262000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 73,
+    "fields": {
+      "customer_id": 73,
+      "first_name": "Albertha",
+      "last_name": "Santana",
+      "phone_number": 9816789699,
+      "monthly_salary": 37000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 74,
+    "fields": {
+      "customer_id": 74,
+      "first_name": "Albertina",
+      "last_name": "Lorenzo",
+      "phone_number": 9634762010,
+      "monthly_salary": 97000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 75,
+    "fields": {
+      "customer_id": 75,
+      "first_name": "Albertine",
+      "last_name": "Hidalgo",
+      "phone_number": 9218601399,
+      "monthly_salary": 179000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 76,
+    "fields": {
+      "customer_id": 76,
+      "first_name": "Alberto",
+      "last_name": "Montero",
+      "phone_number": 9981075707,
+      "monthly_salary": 156000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 77,
+    "fields": {
+      "customer_id": 77,
+      "first_name": "Albina",
+      "last_name": "Iba\u00f1ez",
+      "phone_number": 9974454249,
+      "monthly_salary": 86000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 78,
+    "fields": {
+      "customer_id": 78,
+      "first_name": "Alda",
+      "last_name": "Gimenez",
+      "phone_number": 9167349806,
+      "monthly_salary": 139000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 79,
+    "fields": {
+      "customer_id": 79,
+      "first_name": "Alden",
+      "last_name": "Ferrer",
+      "phone_number": 9991320743,
+      "monthly_salary": 98000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 80,
+    "fields": {
+      "customer_id": 80,
+      "first_name": "Aldo",
+      "last_name": "Duran",
+      "phone_number": 9462704542,
+      "monthly_salary": 124000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 81,
+    "fields": {
+      "customer_id": 81,
+      "first_name": "Alease",
+      "last_name": "Vicente",
+      "phone_number": 9564591142,
+      "monthly_salary": 173000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 82,
+    "fields": {
+      "customer_id": 82,
+      "first_name": "Alec",
+      "last_name": "Benitez",
+      "phone_number": 9179390750,
+      "monthly_salary": 226000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 83,
+    "fields": {
+      "customer_id": 83,
+      "first_name": "Alecia",
+      "last_name": "Santiago",
+      "phone_number": 9381758869,
+      "monthly_salary": 118000,
+      "approved_limit": 3200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 84,
+    "fields": {
+      "customer_id": 84,
+      "first_name": "Aleen",
+      "last_name": "Arias",
+      "phone_number": 9730406749,
+      "monthly_salary": 173000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 85,
+    "fields": {
+      "customer_id": 85,
+      "first_name": "Aleida",
+      "last_name": "Mora",
+      "phone_number": 9137987756,
+      "monthly_salary": 297000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 86,
+    "fields": {
+      "customer_id": 86,
+      "first_name": "Aleisha",
+      "last_name": "Vargas",
+      "phone_number": 9223519103,
+      "monthly_salary": 99000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 87,
+    "fields": {
+      "customer_id": 87,
+      "first_name": "Alejandra",
+      "last_name": "Carmona",
+      "phone_number": 9445837880,
+      "monthly_salary": 283000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 88,
+    "fields": {
+      "customer_id": 88,
+      "first_name": "Alejandrina",
+      "last_name": "Crespo",
+      "phone_number": 9751473139,
+      "monthly_salary": 153000,
+      "approved_limit": 4000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 89,
+    "fields": {
+      "customer_id": 89,
+      "first_name": "Alejandro",
+      "last_name": "Roman",
+      "phone_number": 9128163265,
+      "monthly_salary": 254000,
+      "approved_limit": 900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 90,
+    "fields": {
+      "customer_id": 90,
+      "first_name": "Alena",
+      "last_name": "Pastor",
+      "phone_number": 9894229042,
+      "monthly_salary": 188000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 91,
+    "fields": {
+      "customer_id": 91,
+      "first_name": "Alene",
+      "last_name": "Soto",
+      "phone_number": 9739726730,
+      "monthly_salary": 117000,
+      "approved_limit": 5000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 92,
+    "fields": {
+      "customer_id": 92,
+      "first_name": "Alesha",
+      "last_name": "Saez",
+      "phone_number": 9189519360,
+      "monthly_salary": 299000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 93,
+    "fields": {
+      "customer_id": 93,
+      "first_name": "Aleshia",
+      "last_name": "Velasco",
+      "phone_number": 9421081778,
+      "monthly_salary": 40000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 94,
+    "fields": {
+      "customer_id": 94,
+      "first_name": "Alesia",
+      "last_name": "Soler",
+      "phone_number": 9575328207,
+      "monthly_salary": 274000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 95,
+    "fields": {
+      "customer_id": 95,
+      "first_name": "Alessandra",
+      "last_name": "Moya",
+      "phone_number": 9433928278,
+      "monthly_salary": 204000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 96,
+    "fields": {
+      "customer_id": 96,
+      "first_name": "Aleta",
+      "last_name": "Esteban",
+      "phone_number": 9988557960,
+      "monthly_salary": 32000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 97,
+    "fields": {
+      "customer_id": 97,
+      "first_name": "Aletha",
+      "last_name": "Parra",
+      "phone_number": 9359949074,
+      "monthly_salary": 82000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 98,
+    "fields": {
+      "customer_id": 98,
+      "first_name": "Alethea",
+      "last_name": "Bravo",
+      "phone_number": 9166978798,
+      "monthly_salary": 128000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 99,
+    "fields": {
+      "customer_id": 99,
+      "first_name": "Alethia",
+      "last_name": "Gallardo",
+      "phone_number": 9566370655,
+      "monthly_salary": 61000,
+      "approved_limit": 5000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 100,
+    "fields": {
+      "customer_id": 100,
+      "first_name": "Alex",
+      "last_name": "Rojas",
+      "phone_number": 9188818547,
+      "monthly_salary": 126000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 101,
+    "fields": {
+      "customer_id": 101,
+      "first_name": "Alexa",
+      "last_name": "Pardo",
+      "phone_number": 9323499370,
+      "monthly_salary": 220000,
+      "approved_limit": 3000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 102,
+    "fields": {
+      "customer_id": 102,
+      "first_name": "Alexander",
+      "last_name": "Merino",
+      "phone_number": 9374095164,
+      "monthly_salary": 72000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 103,
+    "fields": {
+      "customer_id": 103,
+      "first_name": "Alexandra",
+      "last_name": "Franco",
+      "phone_number": 9753274093,
+      "monthly_salary": 183000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 104,
+    "fields": {
+      "customer_id": 104,
+      "first_name": "Alexandria",
+      "last_name": "Espinosa",
+      "phone_number": 9127076732,
+      "monthly_salary": 228000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 105,
+    "fields": {
+      "customer_id": 105,
+      "first_name": "Alexia",
+      "last_name": "Lara",
+      "phone_number": 9532197189,
+      "monthly_salary": 270000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 106,
+    "fields": {
+      "customer_id": 106,
+      "first_name": "Alexis",
+      "last_name": "Izquierdo",
+      "phone_number": 9735221602,
+      "monthly_salary": 210000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 107,
+    "fields": {
+      "customer_id": 107,
+      "first_name": "Alfonso",
+      "last_name": "Rivas",
+      "phone_number": 9705098042,
+      "monthly_salary": 179000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 108,
+    "fields": {
+      "customer_id": 108,
+      "first_name": "Alfonzo",
+      "last_name": "Rivera",
+      "phone_number": 9686191215,
+      "monthly_salary": 160000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 109,
+    "fields": {
+      "customer_id": 109,
+      "first_name": "Alfred",
+      "last_name": "Silva",
+      "phone_number": 9181911447,
+      "monthly_salary": 83000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 110,
+    "fields": {
+      "customer_id": 110,
+      "first_name": "Alfreda",
+      "last_name": "Casado",
+      "phone_number": 9496701237,
+      "monthly_salary": 82000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 111,
+    "fields": {
+      "customer_id": 111,
+      "first_name": "Alfredia",
+      "last_name": "Arroyo",
+      "phone_number": 9507833646,
+      "monthly_salary": 254000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 112,
+    "fields": {
+      "customer_id": 112,
+      "first_name": "Alfredo",
+      "last_name": "Redondo",
+      "phone_number": 9400932820,
+      "monthly_salary": 109000,
+      "approved_limit": 3500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 113,
+    "fields": {
+      "customer_id": 113,
+      "first_name": "Ali",
+      "last_name": "Camacho",
+      "phone_number": 9418043666,
+      "monthly_salary": 133000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 114,
+    "fields": {
+      "customer_id": 114,
+      "first_name": "Alia",
+      "last_name": "Vera",
+      "phone_number": 9825891714,
+      "monthly_salary": 286000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 115,
+    "fields": {
+      "customer_id": 115,
+      "first_name": "Alica",
+      "last_name": "Rey",
+      "phone_number": 9622353299,
+      "monthly_salary": 56000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 116,
+    "fields": {
+      "customer_id": 116,
+      "first_name": "Alice",
+      "last_name": "Otero",
+      "phone_number": 9651800595,
+      "monthly_salary": 295000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 117,
+    "fields": {
+      "customer_id": 117,
+      "first_name": "Alicia",
+      "last_name": "Luque",
+      "phone_number": 9432594533,
+      "monthly_salary": 142000,
+      "approved_limit": 3400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 118,
+    "fields": {
+      "customer_id": 118,
+      "first_name": "Alida",
+      "last_name": "Galan",
+      "phone_number": 9797193032,
+      "monthly_salary": 66000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 119,
+    "fields": {
+      "customer_id": 119,
+      "first_name": "Alina",
+      "last_name": "Montes",
+      "phone_number": 9787338247,
+      "monthly_salary": 65000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 120,
+    "fields": {
+      "customer_id": 120,
+      "first_name": "Aline",
+      "last_name": "Rios",
+      "phone_number": 9931069853,
+      "monthly_salary": 35000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 121,
+    "fields": {
+      "customer_id": 121,
+      "first_name": "Alisa",
+      "last_name": "Sierra",
+      "phone_number": 9553301335,
+      "monthly_salary": 185000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 122,
+    "fields": {
+      "customer_id": 122,
+      "first_name": "Alise",
+      "last_name": "Segura",
+      "phone_number": 9435660957,
+      "monthly_salary": 111000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 123,
+    "fields": {
+      "customer_id": 123,
+      "first_name": "Alisha",
+      "last_name": "Carrillo",
+      "phone_number": 9358282814,
+      "monthly_salary": 296000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 124,
+    "fields": {
+      "customer_id": 124,
+      "first_name": "Alishia",
+      "last_name": "Marcos",
+      "phone_number": 9602750181,
+      "monthly_salary": 66000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 125,
+    "fields": {
+      "customer_id": 125,
+      "first_name": "Alisia",
+      "last_name": "Marti",
+      "phone_number": 9238590504,
+      "monthly_salary": 187000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 126,
+    "fields": {
+      "customer_id": 126,
+      "first_name": "Alison",
+      "last_name": "Soriano",
+      "phone_number": 9271505723,
+      "monthly_salary": 298000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 127,
+    "fields": {
+      "customer_id": 127,
+      "first_name": "Alissa",
+      "last_name": "Mendoza",
+      "phone_number": 9113529525,
+      "monthly_salary": 156000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 128,
+    "fields": {
+      "customer_id": 128,
+      "first_name": "Alita",
+      "last_name": "Bernal",
+      "phone_number": 9466876139,
+      "monthly_salary": 80000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 129,
+    "fields": {
+      "customer_id": 129,
+      "first_name": "Alix",
+      "last_name": "Robles",
+      "phone_number": 9147382619,
+      "monthly_salary": 82000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 130,
+    "fields": {
+      "customer_id": 130,
+      "first_name": "Aliza",
+      "last_name": "Vila",
+      "phone_number": 9514797279,
+      "monthly_salary": 137000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 131,
+    "fields": {
+      "customer_id": 131,
+      "first_name": "Alla",
+      "last_name": "Valero",
+      "phone_number": 9646696515,
+      "monthly_salary": 85000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 132,
+    "fields": {
+      "customer_id": 132,
+      "first_name": "Allan",
+      "last_name": "Palacios",
+      "phone_number": 9712913338,
+      "monthly_salary": 62000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 133,
+    "fields": {
+      "customer_id": 133,
+      "first_name": "Alleen",
+      "last_name": "Exposito",
+      "phone_number": 9877268337,
+      "monthly_salary": 226000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 134,
+    "fields": {
+      "customer_id": 134,
+      "first_name": "Allegra",
+      "last_name": "Benito",
+      "phone_number": 9874514960,
+      "monthly_salary": 35000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 135,
+    "fields": {
+      "customer_id": 135,
+      "first_name": "Allen",
+      "last_name": "Varela",
+      "phone_number": 9613876405,
+      "monthly_salary": 207000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 136,
+    "fields": {
+      "customer_id": 136,
+      "first_name": "Allena",
+      "last_name": "Andres",
+      "phone_number": 9382806265,
+      "monthly_salary": 149000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 137,
+    "fields": {
+      "customer_id": 137,
+      "first_name": "Allene",
+      "last_name": "Macias",
+      "phone_number": 9246753642,
+      "monthly_salary": 67000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 138,
+    "fields": {
+      "customer_id": 138,
+      "first_name": "Allie",
+      "last_name": "Pereira",
+      "phone_number": 9445865951,
+      "monthly_salary": 38000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 139,
+    "fields": {
+      "customer_id": 139,
+      "first_name": "Alline",
+      "last_name": "Guerra",
+      "phone_number": 9849527399,
+      "monthly_salary": 188000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 140,
+    "fields": {
+      "customer_id": 140,
+      "first_name": "Allison",
+      "last_name": "Heredia",
+      "phone_number": 9108426917,
+      "monthly_salary": 117000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 141,
+    "fields": {
+      "customer_id": 141,
+      "first_name": "Allyn",
+      "last_name": "Bueno",
+      "phone_number": 9151744928,
+      "monthly_salary": 145000,
+      "approved_limit": 3500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 142,
+    "fields": {
+      "customer_id": 142,
+      "first_name": "Allyson",
+      "last_name": "Roldan",
+      "phone_number": 9332615028,
+      "monthly_salary": 126000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 143,
+    "fields": {
+      "customer_id": 143,
+      "first_name": "Alma",
+      "last_name": "Mateo",
+      "phone_number": 9728766910,
+      "monthly_salary": 206000,
+      "approved_limit": 4900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 144,
+    "fields": {
+      "customer_id": 144,
+      "first_name": "Almeda",
+      "last_name": "Villar",
+      "phone_number": 9974670955,
+      "monthly_salary": 160000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 145,
+    "fields": {
+      "customer_id": 145,
+      "first_name": "Almeta",
+      "last_name": "Contreras",
+      "phone_number": 9710283227,
+      "monthly_salary": 254000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 146,
+    "fields": {
+      "customer_id": 146,
+      "first_name": "Alona",
+      "last_name": "Miranda",
+      "phone_number": 9799331943,
+      "monthly_salary": 253000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 147,
+    "fields": {
+      "customer_id": 147,
+      "first_name": "Alonso",
+      "last_name": "Guillen",
+      "phone_number": 9212915606,
+      "monthly_salary": 220000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 148,
+    "fields": {
+      "customer_id": 148,
+      "first_name": "Alonzo",
+      "last_name": "Mateos",
+      "phone_number": 9449095187,
+      "monthly_salary": 93000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 149,
+    "fields": {
+      "customer_id": 149,
+      "first_name": "Alpha",
+      "last_name": "Escudero",
+      "phone_number": 9969294698,
+      "monthly_salary": 149000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 150,
+    "fields": {
+      "customer_id": 150,
+      "first_name": "Alphonse",
+      "last_name": "Aguilera",
+      "phone_number": 9722591656,
+      "monthly_salary": 157000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 151,
+    "fields": {
+      "customer_id": 151,
+      "first_name": "Alphonso",
+      "last_name": "Casas",
+      "phone_number": 9141726068,
+      "monthly_salary": 250000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 152,
+    "fields": {
+      "customer_id": 152,
+      "first_name": "Alta",
+      "last_name": "Menendez",
+      "phone_number": 9887886049,
+      "monthly_salary": 291000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 153,
+    "fields": {
+      "customer_id": 153,
+      "first_name": "Altagracia",
+      "last_name": "Aparicio",
+      "phone_number": 9320321242,
+      "monthly_salary": 215000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 154,
+    "fields": {
+      "customer_id": 154,
+      "first_name": "Altha",
+      "last_name": "Rivero",
+      "phone_number": 9475534315,
+      "monthly_salary": 52000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 155,
+    "fields": {
+      "customer_id": 155,
+      "first_name": "Althea",
+      "last_name": "Estevez",
+      "phone_number": 9179384063,
+      "monthly_salary": 126000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 156,
+    "fields": {
+      "customer_id": 156,
+      "first_name": "Alton",
+      "last_name": "Beltran",
+      "phone_number": 9337276177,
+      "monthly_salary": 189000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 157,
+    "fields": {
+      "customer_id": 157,
+      "first_name": "Alva",
+      "last_name": "Padilla",
+      "phone_number": 9827444359,
+      "monthly_salary": 235000,
+      "approved_limit": 4000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 158,
+    "fields": {
+      "customer_id": 158,
+      "first_name": "Alvaro",
+      "last_name": "Calderon",
+      "phone_number": 9323617366,
+      "monthly_salary": 197000,
+      "approved_limit": 3400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 159,
+    "fields": {
+      "customer_id": 159,
+      "first_name": "Alvera",
+      "last_name": "Rico",
+      "phone_number": 9704581467,
+      "monthly_salary": 163000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 160,
+    "fields": {
+      "customer_id": 160,
+      "first_name": "Alverta",
+      "last_name": "Gracia",
+      "phone_number": 9135078377,
+      "monthly_salary": 204000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 161,
+    "fields": {
+      "customer_id": 161,
+      "first_name": "Alvin",
+      "last_name": "Galvez",
+      "phone_number": 9363267543,
+      "monthly_salary": 282000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 162,
+    "fields": {
+      "customer_id": 162,
+      "first_name": "Alvina",
+      "last_name": "Abad",
+      "phone_number": 9451186595,
+      "monthly_salary": 135000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 163,
+    "fields": {
+      "customer_id": 163,
+      "first_name": "Alyce",
+      "last_name": "Conde",
+      "phone_number": 9643464078,
+      "monthly_salary": 286000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 164,
+    "fields": {
+      "customer_id": 164,
+      "first_name": "Alycia",
+      "last_name": "Salas",
+      "phone_number": 9316384637,
+      "monthly_salary": 129000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 165,
+    "fields": {
+      "customer_id": 165,
+      "first_name": "Alysa",
+      "last_name": "Jurado",
+      "phone_number": 9201326304,
+      "monthly_salary": 58000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 166,
+    "fields": {
+      "customer_id": 166,
+      "first_name": "Alyse",
+      "last_name": "Quintana",
+      "phone_number": 9481659601,
+      "monthly_salary": 47000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 167,
+    "fields": {
+      "customer_id": 167,
+      "first_name": "Alysha",
+      "last_name": "Plaza",
+      "phone_number": 9641961065,
+      "monthly_salary": 142000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 168,
+    "fields": {
+      "customer_id": 168,
+      "first_name": "Alysia",
+      "last_name": "Acosta",
+      "phone_number": 9380264639,
+      "monthly_salary": 194000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 169,
+    "fields": {
+      "customer_id": 169,
+      "first_name": "Alyson",
+      "last_name": "Aranda",
+      "phone_number": 9525136195,
+      "monthly_salary": 178000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 170,
+    "fields": {
+      "customer_id": 170,
+      "first_name": "Alyssa",
+      "last_name": "Blazquez",
+      "phone_number": 9964508328,
+      "monthly_salary": 111000,
+      "approved_limit": 3000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 171,
+    "fields": {
+      "customer_id": 171,
+      "first_name": "Amada",
+      "last_name": "Bermudez",
+      "phone_number": 9521112531,
+      "monthly_salary": 138000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 172,
+    "fields": {
+      "customer_id": 172,
+      "first_name": "Amado",
+      "last_name": "Roca",
+      "phone_number": 9889502231,
+      "monthly_salary": 260000,
+      "approved_limit": 800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 173,
+    "fields": {
+      "customer_id": 173,
+      "first_name": "Amal",
+      "last_name": "Salazar",
+      "phone_number": 9401771136,
+      "monthly_salary": 222000,
+      "approved_limit": 4600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 174,
+    "fields": {
+      "customer_id": 174,
+      "first_name": "Amalia",
+      "last_name": "Costa",
+      "phone_number": 9882495478,
+      "monthly_salary": 183000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 175,
+    "fields": {
+      "customer_id": 175,
+      "first_name": "Amanda",
+      "last_name": "Santamaria",
+      "phone_number": 9732443173,
+      "monthly_salary": 207000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 176,
+    "fields": {
+      "customer_id": 176,
+      "first_name": "Amber",
+      "last_name": "Miguel",
+      "phone_number": 9910185838,
+      "monthly_salary": 107000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 177,
+    "fields": {
+      "customer_id": 177,
+      "first_name": "Amberly",
+      "last_name": "Guzman",
+      "phone_number": 9800339036,
+      "monthly_salary": 137000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 178,
+    "fields": {
+      "customer_id": 178,
+      "first_name": "Ambrose",
+      "last_name": "Serra",
+      "phone_number": 9189346724,
+      "monthly_salary": 134000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 179,
+    "fields": {
+      "customer_id": 179,
+      "first_name": "Amee",
+      "last_name": "Villanueva",
+      "phone_number": 9434796450,
+      "monthly_salary": 50000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 180,
+    "fields": {
+      "customer_id": 180,
+      "first_name": "Amelia",
+      "last_name": "Manzano",
+      "phone_number": 9462575278,
+      "monthly_salary": 189000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 181,
+    "fields": {
+      "customer_id": 181,
+      "first_name": "America",
+      "last_name": "Cuesta",
+      "phone_number": 9213807132,
+      "monthly_salary": 288000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 182,
+    "fields": {
+      "customer_id": 182,
+      "first_name": "Ami",
+      "last_name": "Tomas",
+      "phone_number": 9942105069,
+      "monthly_salary": 61000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 183,
+    "fields": {
+      "customer_id": 183,
+      "first_name": "Amie",
+      "last_name": "Hurtado",
+      "phone_number": 9220299612,
+      "monthly_salary": 294000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 184,
+    "fields": {
+      "customer_id": 184,
+      "first_name": "Amiee",
+      "last_name": "Rueda",
+      "phone_number": 9282430141,
+      "monthly_salary": 106000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 185,
+    "fields": {
+      "customer_id": 185,
+      "first_name": "Amina",
+      "last_name": "Trujillo",
+      "phone_number": 9117895864,
+      "monthly_salary": 154000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 186,
+    "fields": {
+      "customer_id": 186,
+      "first_name": "Amira",
+      "last_name": "Avila",
+      "phone_number": 9766809898,
+      "monthly_salary": 117000,
+      "approved_limit": 4400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 187,
+    "fields": {
+      "customer_id": 187,
+      "first_name": "Ammie",
+      "last_name": "Pacheco",
+      "phone_number": 9285592769,
+      "monthly_salary": 34000,
+      "approved_limit": 4900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 188,
+    "fields": {
+      "customer_id": 188,
+      "first_name": "Amos",
+      "last_name": "Simon",
+      "phone_number": 9229411461,
+      "monthly_salary": 107000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 189,
+    "fields": {
+      "customer_id": 189,
+      "first_name": "Amparo",
+      "last_name": "De La Fuente",
+      "phone_number": 9904125266,
+      "monthly_salary": 197000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 190,
+    "fields": {
+      "customer_id": 190,
+      "first_name": "Amy",
+      "last_name": "Pons",
+      "phone_number": 9525562036,
+      "monthly_salary": 264000,
+      "approved_limit": 3700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 191,
+    "fields": {
+      "customer_id": 191,
+      "first_name": "An",
+      "last_name": "Lazaro",
+      "phone_number": 9878621805,
+      "monthly_salary": 218000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 192,
+    "fields": {
+      "customer_id": 192,
+      "first_name": "Ana",
+      "last_name": "Mesa",
+      "phone_number": 9953004088,
+      "monthly_salary": 231000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 193,
+    "fields": {
+      "customer_id": 193,
+      "first_name": "Anabel",
+      "last_name": "Sancho",
+      "phone_number": 9344895758,
+      "monthly_salary": 292000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 194,
+    "fields": {
+      "customer_id": 194,
+      "first_name": "Analisa",
+      "last_name": "Del Rio",
+      "phone_number": 9847471634,
+      "monthly_salary": 240000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 195,
+    "fields": {
+      "customer_id": 195,
+      "first_name": "Anamaria",
+      "last_name": "Escobar",
+      "phone_number": 9775138358,
+      "monthly_salary": 159000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 196,
+    "fields": {
+      "customer_id": 196,
+      "first_name": "Anastacia",
+      "last_name": "Millan",
+      "phone_number": 9151416579,
+      "monthly_salary": 84000,
+      "approved_limit": 4400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 197,
+    "fields": {
+      "customer_id": 197,
+      "first_name": "Anastasia",
+      "last_name": "Blasco",
+      "phone_number": 9700368897,
+      "monthly_salary": 165000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 198,
+    "fields": {
+      "customer_id": 198,
+      "first_name": "Andera",
+      "last_name": "Alarcon",
+      "phone_number": 9233639894,
+      "monthly_salary": 35000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 199,
+    "fields": {
+      "customer_id": 199,
+      "first_name": "Anderson",
+      "last_name": "Luna",
+      "phone_number": 9831106184,
+      "monthly_salary": 72000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 200,
+    "fields": {
+      "customer_id": 200,
+      "first_name": "Andra",
+      "last_name": "Zamora",
+      "phone_number": 9512891717,
+      "monthly_salary": 132000,
+      "approved_limit": 3700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 201,
+    "fields": {
+      "customer_id": 201,
+      "first_name": "Andre",
+      "last_name": "Casta\u00f1o",
+      "phone_number": 9409193879,
+      "monthly_salary": 257000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 202,
+    "fields": {
+      "customer_id": 202,
+      "first_name": "Andrea",
+      "last_name": "Salvador",
+      "phone_number": 9230856699,
+      "monthly_salary": 160000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 203,
+    "fields": {
+      "customer_id": 203,
+      "first_name": "Andreas",
+      "last_name": "Bermejo",
+      "phone_number": 9404295289,
+      "monthly_salary": 127000,
+      "approved_limit": 1600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 204,
+    "fields": {
+      "customer_id": 204,
+      "first_name": "Andree",
+      "last_name": "Paredes",
+      "phone_number": 9546474790,
+      "monthly_salary": 50000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 205,
+    "fields": {
+      "customer_id": 205,
+      "first_name": "Andres",
+      "last_name": "Anton",
+      "phone_number": 9423711581,
+      "monthly_salary": 61000,
+      "approved_limit": 4000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 206,
+    "fields": {
+      "customer_id": 206,
+      "first_name": "Andrew",
+      "last_name": "Ballesteros",
+      "phone_number": 9286300384,
+      "monthly_salary": 101000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 207,
+    "fields": {
+      "customer_id": 207,
+      "first_name": "Andria",
+      "last_name": "Valverde",
+      "phone_number": 9578800227,
+      "monthly_salary": 210000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 208,
+    "fields": {
+      "customer_id": 208,
+      "first_name": "Andy",
+      "last_name": "Maldonado",
+      "phone_number": 9961709322,
+      "monthly_salary": 37000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 209,
+    "fields": {
+      "customer_id": 209,
+      "first_name": "Anette",
+      "last_name": "Bautista",
+      "phone_number": 9792613387,
+      "monthly_salary": 284000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 210,
+    "fields": {
+      "customer_id": 210,
+      "first_name": "Angel",
+      "last_name": "Valle",
+      "phone_number": 9975548297,
+      "monthly_salary": 129000,
+      "approved_limit": 3400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 211,
+    "fields": {
+      "customer_id": 211,
+      "first_name": "Angela",
+      "last_name": "Ponce",
+      "phone_number": 9809832965,
+      "monthly_salary": 93000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 212,
+    "fields": {
+      "customer_id": 212,
+      "first_name": "Angele",
+      "last_name": "Oliva",
+      "phone_number": 9907227554,
+      "monthly_salary": 243000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 213,
+    "fields": {
+      "customer_id": 213,
+      "first_name": "Angelena",
+      "last_name": "Rodrigo",
+      "phone_number": 9717190489,
+      "monthly_salary": 240000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 214,
+    "fields": {
+      "customer_id": 214,
+      "first_name": "Angeles",
+      "last_name": "Lorente",
+      "phone_number": 9545243694,
+      "monthly_salary": 285000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 215,
+    "fields": {
+      "customer_id": 215,
+      "first_name": "Angelia",
+      "last_name": "Cordero",
+      "phone_number": 9630396318,
+      "monthly_salary": 38000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 216,
+    "fields": {
+      "customer_id": 216,
+      "first_name": "Angelic",
+      "last_name": "Juan",
+      "phone_number": 9761418031,
+      "monthly_salary": 223000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 217,
+    "fields": {
+      "customer_id": 217,
+      "first_name": "Angelica",
+      "last_name": "De La Cruz",
+      "phone_number": 9606056493,
+      "monthly_salary": 182000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 218,
+    "fields": {
+      "customer_id": 218,
+      "first_name": "Angelika",
+      "last_name": "Mas",
+      "phone_number": 9317388805,
+      "monthly_salary": 34000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 219,
+    "fields": {
+      "customer_id": 219,
+      "first_name": "Angelina",
+      "last_name": "Collado",
+      "phone_number": 9317060744,
+      "monthly_salary": 161000,
+      "approved_limit": 4900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 220,
+    "fields": {
+      "customer_id": 220,
+      "first_name": "Angeline",
+      "last_name": "Murillo",
+      "phone_number": 9562423937,
+      "monthly_salary": 134000,
+      "approved_limit": 2100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 221,
+    "fields": {
+      "customer_id": 221,
+      "first_name": "Angelique",
+      "last_name": "Pozo",
+      "phone_number": 9593407816,
+      "monthly_salary": 68000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 222,
+    "fields": {
+      "customer_id": 222,
+      "first_name": "Angelita",
+      "last_name": "Montoya",
+      "phone_number": 9445413160,
+      "monthly_salary": 147000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 223,
+    "fields": {
+      "customer_id": 223,
+      "first_name": "Angella",
+      "last_name": "Cuenca",
+      "phone_number": 9506339628,
+      "monthly_salary": 151000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 224,
+    "fields": {
+      "customer_id": 224,
+      "first_name": "Angelo",
+      "last_name": "Cuevas",
+      "phone_number": 9632141575,
+      "monthly_salary": 176000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 225,
+    "fields": {
+      "customer_id": 225,
+      "first_name": "Angelyn",
+      "last_name": "Martos",
+      "phone_number": 9363893652,
+      "monthly_salary": 185000,
+      "approved_limit": 800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 226,
+    "fields": {
+      "customer_id": 226,
+      "first_name": "Angie",
+      "last_name": "Marco",
+      "phone_number": 9740153812,
+      "monthly_salary": 102000,
+      "approved_limit": 4600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 227,
+    "fields": {
+      "customer_id": 227,
+      "first_name": "Angila",
+      "last_name": "Barroso",
+      "phone_number": 9348283339,
+      "monthly_salary": 192000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 228,
+    "fields": {
+      "customer_id": 228,
+      "first_name": "Angla",
+      "last_name": "Ros",
+      "phone_number": 9525270367,
+      "monthly_salary": 120000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 229,
+    "fields": {
+      "customer_id": 229,
+      "first_name": "Angle",
+      "last_name": "Quesada",
+      "phone_number": 9320289803,
+      "monthly_salary": 117000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 230,
+    "fields": {
+      "customer_id": 230,
+      "first_name": "Anglea",
+      "last_name": "De La Torre",
+      "phone_number": 9209824831,
+      "monthly_salary": 172000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 231,
+    "fields": {
+      "customer_id": 231,
+      "first_name": "Anh",
+      "last_name": "Barrera",
+      "phone_number": 9438790371,
+      "monthly_salary": 109000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 232,
+    "fields": {
+      "customer_id": 232,
+      "first_name": "Anibal",
+      "last_name": "Ordo\u00f1ez",
+      "phone_number": 9914415599,
+      "monthly_salary": 187000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 233,
+    "fields": {
+      "customer_id": 233,
+      "first_name": "Anika",
+      "last_name": "Gimeno",
+      "phone_number": 9906529352,
+      "monthly_salary": 262000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 234,
+    "fields": {
+      "customer_id": 234,
+      "first_name": "Anisa",
+      "last_name": "Alba",
+      "phone_number": 9992247608,
+      "monthly_salary": 138000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 235,
+    "fields": {
+      "customer_id": 235,
+      "first_name": "Anisha",
+      "last_name": "Corral",
+      "phone_number": 9308349212,
+      "monthly_salary": 141000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 236,
+    "fields": {
+      "customer_id": 236,
+      "first_name": "Anissa",
+      "last_name": "Puig",
+      "phone_number": 9651785037,
+      "monthly_salary": 240000,
+      "approved_limit": 4800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 237,
+    "fields": {
+      "customer_id": 237,
+      "first_name": "Anita",
+      "last_name": "Cabello",
+      "phone_number": 9505917637,
+      "monthly_salary": 264000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 238,
+    "fields": {
+      "customer_id": 238,
+      "first_name": "Anitra",
+      "last_name": "Pulido",
+      "phone_number": 9437880477,
+      "monthly_salary": 85000,
+      "approved_limit": 3300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 239,
+    "fields": {
+      "customer_id": 239,
+      "first_name": "Anja",
+      "last_name": "Rojo",
+      "phone_number": 9831684307,
+      "monthly_salary": 231000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 240,
+    "fields": {
+      "customer_id": 240,
+      "first_name": "Anjanette",
+      "last_name": "Navas",
+      "phone_number": 9881414926,
+      "monthly_salary": 126000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 241,
+    "fields": {
+      "customer_id": 241,
+      "first_name": "Anjelica",
+      "last_name": "Saiz",
+      "phone_number": 9993219098,
+      "monthly_salary": 72000,
+      "approved_limit": 3200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 242,
+    "fields": {
+      "customer_id": 242,
+      "first_name": "Ann",
+      "last_name": "Arenas",
+      "phone_number": 9114155672,
+      "monthly_salary": 81000,
+      "approved_limit": 4400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 243,
+    "fields": {
+      "customer_id": 243,
+      "first_name": "Anna",
+      "last_name": "Aguado",
+      "phone_number": 9999757819,
+      "monthly_salary": 111000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 244,
+    "fields": {
+      "customer_id": 244,
+      "first_name": "Annabel",
+      "last_name": "Soria",
+      "phone_number": 9490132408,
+      "monthly_salary": 250000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 245,
+    "fields": {
+      "customer_id": 245,
+      "first_name": "Annabell",
+      "last_name": "Domingo",
+      "phone_number": 9744129141,
+      "monthly_salary": 170000,
+      "approved_limit": 3400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 246,
+    "fields": {
+      "customer_id": 246,
+      "first_name": "Annabelle",
+      "last_name": "Galindo",
+      "phone_number": 9527557533,
+      "monthly_salary": 175000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 247,
+    "fields": {
+      "customer_id": 247,
+      "first_name": "Annalee",
+      "last_name": "Mena",
+      "phone_number": 9507039105,
+      "monthly_salary": 189000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 248,
+    "fields": {
+      "customer_id": 248,
+      "first_name": "Annalisa",
+      "last_name": "Escribano",
+      "phone_number": 9235465741,
+      "monthly_salary": 54000,
+      "approved_limit": 1300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 249,
+    "fields": {
+      "customer_id": 249,
+      "first_name": "Annamae",
+      "last_name": "Vallejo",
+      "phone_number": 9520954671,
+      "monthly_salary": 143000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 250,
+    "fields": {
+      "customer_id": 250,
+      "first_name": "Annamaria",
+      "last_name": "Valencia",
+      "phone_number": 9120189951,
+      "monthly_salary": 165000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 251,
+    "fields": {
+      "customer_id": 251,
+      "first_name": "Annamarie",
+      "last_name": "Asensio",
+      "phone_number": 9772698915,
+      "monthly_salary": 65000,
+      "approved_limit": 4700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 252,
+    "fields": {
+      "customer_id": 252,
+      "first_name": "Anne",
+      "last_name": "Ramon",
+      "phone_number": 9486625000,
+      "monthly_salary": 45000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 253,
+    "fields": {
+      "customer_id": 253,
+      "first_name": "Anneliese",
+      "last_name": "Lucas",
+      "phone_number": 9723576704,
+      "monthly_salary": 204000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 254,
+    "fields": {
+      "customer_id": 254,
+      "first_name": "Annelle",
+      "last_name": "Caro",
+      "phone_number": 9828481296,
+      "monthly_salary": 266000,
+      "approved_limit": 4400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 255,
+    "fields": {
+      "customer_id": 255,
+      "first_name": "Annemarie",
+      "last_name": "Polo",
+      "phone_number": 9166250716,
+      "monthly_salary": 250000,
+      "approved_limit": 1500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 256,
+    "fields": {
+      "customer_id": 256,
+      "first_name": "Annett",
+      "last_name": "Chen",
+      "phone_number": 9167784356,
+      "monthly_salary": 221000,
+      "approved_limit": 2800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 257,
+    "fields": {
+      "customer_id": 257,
+      "first_name": "Annetta",
+      "last_name": "Aguirre",
+      "phone_number": 9247752157,
+      "monthly_salary": 109000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 258,
+    "fields": {
+      "customer_id": 258,
+      "first_name": "Annette",
+      "last_name": "Naranjo",
+      "phone_number": 9757972808,
+      "monthly_salary": 48000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 259,
+    "fields": {
+      "customer_id": 259,
+      "first_name": "Annice",
+      "last_name": "Amador",
+      "phone_number": 9116409106,
+      "monthly_salary": 236000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 260,
+    "fields": {
+      "customer_id": 260,
+      "first_name": "Annie",
+      "last_name": "Villalba",
+      "phone_number": 9836257121,
+      "monthly_salary": 82000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 261,
+    "fields": {
+      "customer_id": 261,
+      "first_name": "Annika",
+      "last_name": "Mata",
+      "phone_number": 9691216518,
+      "monthly_salary": 209000,
+      "approved_limit": 3200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 262,
+    "fields": {
+      "customer_id": 262,
+      "first_name": "Annis",
+      "last_name": "Reina",
+      "phone_number": 9298388045,
+      "monthly_salary": 112000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 263,
+    "fields": {
+      "customer_id": 263,
+      "first_name": "Annita",
+      "last_name": "Paz",
+      "phone_number": 9102190008,
+      "monthly_salary": 57000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 264,
+    "fields": {
+      "customer_id": 264,
+      "first_name": "Annmarie",
+      "last_name": "Moran",
+      "phone_number": 9480022732,
+      "monthly_salary": 98000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 265,
+    "fields": {
+      "customer_id": 265,
+      "first_name": "Anthony",
+      "last_name": "Linares",
+      "phone_number": 9405972517,
+      "monthly_salary": 123000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 266,
+    "fields": {
+      "customer_id": 266,
+      "first_name": "Antione",
+      "last_name": "Ojeda",
+      "phone_number": 9541658903,
+      "monthly_salary": 108000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 267,
+    "fields": {
+      "customer_id": 267,
+      "first_name": "Antionette",
+      "last_name": "Leal",
+      "phone_number": 9228631557,
+      "monthly_salary": 212000,
+      "approved_limit": 4300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 268,
+    "fields": {
+      "customer_id": 268,
+      "first_name": "Antoine",
+      "last_name": "Burgos",
+      "phone_number": 9213995694,
+      "monthly_salary": 58000,
+      "approved_limit": 1900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 269,
+    "fields": {
+      "customer_id": 269,
+      "first_name": "Antoinette",
+      "last_name": "Carretero",
+      "phone_number": 9178620988,
+      "monthly_salary": 285000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 270,
+    "fields": {
+      "customer_id": 270,
+      "first_name": "Anton",
+      "last_name": "Oliver",
+      "phone_number": 9956598054,
+      "monthly_salary": 227000,
+      "approved_limit": 3200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 271,
+    "fields": {
+      "customer_id": 271,
+      "first_name": "Antone",
+      "last_name": "Bonilla",
+      "phone_number": 9345234695,
+      "monthly_salary": 260000,
+      "approved_limit": 1800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 272,
+    "fields": {
+      "customer_id": 272,
+      "first_name": "Antonetta",
+      "last_name": "Sosa",
+      "phone_number": 9405872422,
+      "monthly_salary": 214000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 273,
+    "fields": {
+      "customer_id": 273,
+      "first_name": "Antonette",
+      "last_name": "Roig",
+      "phone_number": 9518976383,
+      "monthly_salary": 115000,
+      "approved_limit": 2700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 274,
+    "fields": {
+      "customer_id": 274,
+      "first_name": "Antonia",
+      "last_name": "Aragon",
+      "phone_number": 9547709205,
+      "monthly_salary": 215000,
+      "approved_limit": 1200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 275,
+    "fields": {
+      "customer_id": 275,
+      "first_name": "Antonietta",
+      "last_name": "Carrion",
+      "phone_number": 9899647979,
+      "monthly_salary": 81000,
+      "approved_limit": 5000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 276,
+    "fields": {
+      "customer_id": 276,
+      "first_name": "Antonina",
+      "last_name": "Clemente",
+      "phone_number": 9666830297,
+      "monthly_salary": 46000,
+      "approved_limit": 1400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 277,
+    "fields": {
+      "customer_id": 277,
+      "first_name": "Antonio",
+      "last_name": "Villa",
+      "phone_number": 9984306813,
+      "monthly_salary": 214000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 278,
+    "fields": {
+      "customer_id": 278,
+      "first_name": "Antony",
+      "last_name": "Castellano",
+      "phone_number": 9819261784,
+      "monthly_salary": 75000,
+      "approved_limit": 3100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 279,
+    "fields": {
+      "customer_id": 279,
+      "first_name": "Antwan",
+      "last_name": "Cordoba",
+      "phone_number": 9443939782,
+      "monthly_salary": 116000,
+      "approved_limit": 3500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 280,
+    "fields": {
+      "customer_id": 280,
+      "first_name": "Anya",
+      "last_name": "Carrera",
+      "phone_number": 9874876902,
+      "monthly_salary": 185000,
+      "approved_limit": 1700000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 281,
+    "fields": {
+      "customer_id": 281,
+      "first_name": "Apolonia",
+      "last_name": "Hernando",
+      "phone_number": 9887567962,
+      "monthly_salary": 217000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 282,
+    "fields": {
+      "customer_id": 282,
+      "first_name": "April",
+      "last_name": "Rosa",
+      "phone_number": 9420633068,
+      "monthly_salary": 38000,
+      "approved_limit": 1100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 283,
+    "fields": {
+      "customer_id": 283,
+      "first_name": "Apryl",
+      "last_name": "Andreu",
+      "phone_number": 9938512409,
+      "monthly_salary": 228000,
+      "approved_limit": 2500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 284,
+    "fields": {
+      "customer_id": 284,
+      "first_name": "Ara",
+      "last_name": "Caceres",
+      "phone_number": 9697148952,
+      "monthly_salary": 135000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 285,
+    "fields": {
+      "customer_id": 285,
+      "first_name": "Araceli",
+      "last_name": "Mohamed",
+      "phone_number": 9651985884,
+      "monthly_salary": 249000,
+      "approved_limit": 2000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 286,
+    "fields": {
+      "customer_id": 286,
+      "first_name": "Aracelis",
+      "last_name": "Calero",
+      "phone_number": 9798534191,
+      "monthly_salary": 111000,
+      "approved_limit": 3400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 287,
+    "fields": {
+      "customer_id": 287,
+      "first_name": "Aracely",
+      "last_name": "Cardenas",
+      "phone_number": 9492301818,
+      "monthly_salary": 250000,
+      "approved_limit": 4500000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 288,
+    "fields": {
+      "customer_id": 288,
+      "first_name": "Arcelia",
+      "last_name": "Cobo",
+      "phone_number": 9860490835,
+      "monthly_salary": 145000,
+      "approved_limit": 2200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 289,
+    "fields": {
+      "customer_id": 289,
+      "first_name": "Archie",
+      "last_name": "Correa",
+      "phone_number": 9191616203,
+      "monthly_salary": 287000,
+      "approved_limit": 3800000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 290,
+    "fields": {
+      "customer_id": 290,
+      "first_name": "Ardath",
+      "last_name": "Juarez",
+      "phone_number": 9170005981,
+      "monthly_salary": 32000,
+      "approved_limit": 2300000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 291,
+    "fields": {
+      "customer_id": 291,
+      "first_name": "Ardelia",
+      "last_name": "Velazquez",
+      "phone_number": 9100608966,
+      "monthly_salary": 136000,
+      "approved_limit": 2600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 292,
+    "fields": {
+      "customer_id": 292,
+      "first_name": "Ardell",
+      "last_name": "Alcaraz",
+      "phone_number": 9212845059,
+      "monthly_salary": 160000,
+      "approved_limit": 3600000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 293,
+    "fields": {
+      "customer_id": 293,
+      "first_name": "Ardella",
+      "last_name": "Chacon",
+      "phone_number": 9296412860,
+      "monthly_salary": 274000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 294,
+    "fields": {
+      "customer_id": 294,
+      "first_name": "Ardelle",
+      "last_name": "Ferreira",
+      "phone_number": 9169200783,
+      "monthly_salary": 177000,
+      "approved_limit": 3900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 295,
+    "fields": {
+      "customer_id": 295,
+      "first_name": "Arden",
+      "last_name": "Sola",
+      "phone_number": 9647665813,
+      "monthly_salary": 148000,
+      "approved_limit": 4200000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 296,
+    "fields": {
+      "customer_id": 296,
+      "first_name": "Ardis",
+      "last_name": "Domenech",
+      "phone_number": 9757942407,
+      "monthly_salary": 35000,
+      "approved_limit": 1000000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 297,
+    "fields": {
+      "customer_id": 297,
+      "first_name": "Ardith",
+      "last_name": "Zapata",
+      "phone_number": 9249491764,
+      "monthly_salary": 94000,
+      "approved_limit": 2400000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 298,
+    "fields": {
+      "customer_id": 298,
+      "first_name": "Aretha",
+      "last_name": "Riera",
+      "phone_number": 9124680892,
+      "monthly_salary": 188000,
+      "approved_limit": 2900000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 299,
+    "fields": {
+      "customer_id": 299,
+      "first_name": "Argelia",
+      "last_name": "Saavedra",
+      "phone_number": 9614182220,
+      "monthly_salary": 85000,
+      "approved_limit": 4100000,
+      "current_debt": 0.0
+    }
+  },
+  {
+    "model": "credit_app.customer",
+    "pk": 300,
+    "fields": {
+      "customer_id": 300,
+      "first_name": "Argentina",
+      "last_name": "Toledo",
+      "phone_number": 9506356490,
+      "monthly_salary": 112000,
+      "approved_limit": 5000000,
+      "current_debt": 0.0
+    }
+  }
+]
